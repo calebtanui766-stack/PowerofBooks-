@@ -1,0 +1,6 @@
+{
+  "name": "Power of Books",
+  "description": "Done-for-you book video management, manual reader engagement, and Amazon A+ content for indie authors across TikTok, Instagram, YouTube Shorts, Pinterest, and Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
